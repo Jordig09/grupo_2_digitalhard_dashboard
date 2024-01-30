@@ -15,7 +15,7 @@ const headers = [
   },
   {
     name: "Subcategoría",
-    value: "subcategory",
+    value: "name",
   },
   {
     name: "Productos",
